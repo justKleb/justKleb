@@ -1,7 +1,6 @@
-# 👋 Hi, I’m @justKleb
-I’m currently learning minecraft modding on Java, Java as programming language, Python, C's programming languages;
+### Hi, I’m @justKleb
+I’m currently programming on **🐍Python**!
 
-[CurseForge ⚪](https://www.curseforge.com/members/justkleby/projects)
 
 <!---
 justKleb/justKleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
