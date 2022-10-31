@@ -1,6 +1,7 @@
 ### Hi, I’m @justKleb
-I’m currently programming in **🐍Python**!
-Current project - PassGenie
+👤 I’m currently programming in **🐍Python**!
+
+🛠️ Current project - **🔒️PassGenie**
 
 
 <!---
